@@ -19,7 +19,7 @@ I'm a **BCA student at Shoolini University** passionate about building modern, r
 I enjoy exploring new technologies, improving my skills, and developing real-world projects that make an impact.
 
 - 💻 Skilled in **Full Stack Development**
-- 🌱 Currently learning **DevOps** and **Cloud Technologies**
+- 🌱 Currently learning **OCI AI Foundations** and **Cloud Technologies**
 - ⚙️ Open to opportunities in **Web Development**, **Software Engineering**, and **Full Stack Development**
 - 🧩 I love solving problems and crafting clean, user-friendly interfaces
 
