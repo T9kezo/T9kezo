@@ -10,7 +10,6 @@
   📍 Solan, Himachal Pradesh, India <br>
   📧 <a href="mailto:abhishekkanwar78@gmail.com">abhishekkanwar78@gmail.com</a> <br>
   🔗 <a href="https://www.linkedin.com/in/abhishek-kanwar-204017261">LinkedIn</a> • 
-  <a href="https://github.com/T9kezo">GitHub</a>
 </p>
 
 ---
@@ -55,28 +54,10 @@ I enjoy exploring new technologies, improving my skills, and developing real-wor
 
 ---
 
-## 🚀 Projects
-
-### [GitHub Portfolio](https://github.com/T9kezo)
-A collection of front-end and full-stack development projects showcasing:
-- Responsive UI/UX design  
-- Database integration  
-- Real-world web development experience  
-
-*(More projects coming soon...)*
-
----
-
 ## 🎓 Education
 **Bachelor of Computer Applications (BCA)**  
 📍 *Shoolini University, Solan, Himachal Pradesh*  
-🗓️ *Aug 2022 – May 2025 (Expected)*
-
----
-
-## 🌐 Languages
-- English  
-- Hindi  
+🗓️ *Aug 2022 – July 2025 
 
 ---
 
