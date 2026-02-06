@@ -63,11 +63,17 @@ I enjoy exploring new technologies, improving my skills, and developing real-wor
 
 ## 📊 GitHub Stats
 
-| | |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=T9kezo&show_icons=true&theme=tokyonight" width="400" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=T9kezo&theme=tokyonight" width="400" /> |
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T9kezo&layout=compact&theme=tokyonight" width="400" /> | |
-
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=T9kezo&show_icons=true&theme=tokyonight" alt="GitHub Stats" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=T9kezo&theme=tokyonight" alt="GitHub Streak" /></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T9kezo&layout=compact&theme=tokyonight" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
